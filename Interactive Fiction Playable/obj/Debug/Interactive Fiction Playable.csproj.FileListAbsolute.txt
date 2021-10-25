@@ -1,0 +1,28 @@
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Playable\Interactive Fiction Playable\bin\Debug\Interactive Fiction Playable.exe.config
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Playable\Interactive Fiction Playable\bin\Debug\Interactive Fiction Playable.exe
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Playable\Interactive Fiction Playable\bin\Debug\Interactive Fiction Playable.pdb
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Playable\Interactive Fiction Playable\obj\Debug\Interactive Fiction Playable.csprojAssemblyReference.cache
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Playable\Interactive Fiction Playable\obj\Debug\Interactive Fiction Playable.csproj.CoreCompileInputs.cache
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Playable\Interactive Fiction Playable\obj\Debug\Interactive Fiction Playable.exe
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Playable\Interactive Fiction Playable\obj\Debug\Interactive Fiction Playable.pdb
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Playable\Interactive Fiction Playable\bin\Debug\story.txt
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Playable\Interactive Fiction Playable\bin\Debug\savegame.txt
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Playable\Interactive Fiction Playable\bin\Debug\menulayout.txt
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Playable\Interactive Fiction Playable\bin\Debug\savegame2.txt
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Playable\Interactive Fiction Playable\bin\Debug\savegame3.txt
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Playable\Interactive Fiction Playable\bin\Debug\titlescreen.txt
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Playable\Interactive Fiction Playable\bin\Debug\deathscreen.txt
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Finale\Interactive Fiction Playable\bin\Debug\deathscreen.txt
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Finale\Interactive Fiction Playable\bin\Debug\menulayout.txt
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Finale\Interactive Fiction Playable\bin\Debug\savegame.txt
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Finale\Interactive Fiction Playable\bin\Debug\savegame2.txt
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Finale\Interactive Fiction Playable\bin\Debug\savegame3.txt
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Finale\Interactive Fiction Playable\bin\Debug\story.txt
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Finale\Interactive Fiction Playable\bin\Debug\titlescreen.txt
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Finale\Interactive Fiction Playable\bin\Debug\Interactive Fiction Playable.exe.config
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Finale\Interactive Fiction Playable\bin\Debug\Interactive Fiction Playable.exe
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Finale\Interactive Fiction Playable\bin\Debug\Interactive Fiction Playable.pdb
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Finale\Interactive Fiction Playable\obj\Debug\Interactive Fiction Playable.csprojAssemblyReference.cache
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Finale\Interactive Fiction Playable\obj\Debug\Interactive Fiction Playable.csproj.CoreCompileInputs.cache
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Finale\Interactive Fiction Playable\obj\Debug\Interactive Fiction Playable.exe
+C:\Users\glind\Documents\Programs\C#\Interactive Fiction Finale\Interactive Fiction Playable\obj\Debug\Interactive Fiction Playable.pdb
